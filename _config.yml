@@ -292,5 +292,5 @@ defaults:
       related: true
       popular: false
       show_date: true
-      date_format: "%Y-%m-%d(%^a)"
+      date_format: "%Y-%m-%d-%^a"
 
