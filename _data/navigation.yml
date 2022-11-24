@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "TIL"
-    url: /todayilearned/
   - title: "Category"
     url: /categories/
   - title: "Tag"
@@ -10,10 +8,8 @@ main:
     url: /search/
 
 docs:   
-  - title: "대목차"
-    children:
-      - title: "TIL"
-        url: /todayilearned/    
+  - title: "목차 / 태그"
+    children: 
       - title: "Category"
         url: /categories/
       - title: "Tag"
